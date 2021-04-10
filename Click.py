@@ -1,1 +1,2 @@
-def click("Click")
+def click():
+    print("Click!")
